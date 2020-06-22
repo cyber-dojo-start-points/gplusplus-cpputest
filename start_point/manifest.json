@@ -1,9 +1,7 @@
-
 {
-  "image_name": "cyberdojofoundation/gpp_cpputest",
+  "image_name": "cyberdojofoundation/gpp_cpputest:1766520",
   "display_name": "C++ (g++), CppUTest",
-  "visible_filenames":
-  [
+  "visible_filenames": [
     "tests/HikerTest.cpp",
     "tests/AllTests.cpp",
     "Hiker.cpp",
@@ -11,11 +9,15 @@
     "cyber-dojo.sh",
     "makefile"
   ],
-  "filename_extension": [ ".cpp", ".hpp", ".c", ".h" ],
+  "filename_extension": [
+    ".cpp",
+    ".hpp",
+    ".c",
+    ".h"
+  ],
   "max_seconds": 10,
   "tab_size": 4,
-  "progress_regexs" :
-  [
+  "progress_regexs": [
     "Errors \\((\\d)+ failures, (\\d)+ tests, (\\d)+ ran, (\\d)+ checks, (\\d)+ ignored, (\\d)+ filtered out, (\\d)+ ms\\)",
     "OK \\((\\d)+ tests, (\\d)+ ran, (\\d)+ checks, (\\d)+ ignored, (\\d)+ filtered out, (\\d)+ ms\\)"
   ]
