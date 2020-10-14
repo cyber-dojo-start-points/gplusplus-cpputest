@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/gpp_cpputest:963d6d2",
+  "image_name": "cyberdojofoundation/gpp_cpputest:2bcb629",
   "display_name": "C++ (g++), CppUTest",
   "visible_filenames": [
     "tests/HikerTest.cpp",
