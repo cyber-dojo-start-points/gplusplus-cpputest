@@ -14,7 +14,7 @@ TEST_SRC_DIRS = \
 
 INCLUDE_DIRS =\
 	.\
-	$(CPPUTEST_HOME)/include/ \
+	$(CPPUTEST_HOME)/include/
 
 CXXFLAGS += -Wall -Wswitch-default -Wfatal-errors
 CXXFLAGS += -std=c++2a
