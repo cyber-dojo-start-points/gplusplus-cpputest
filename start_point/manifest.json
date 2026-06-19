@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/gpp_cpputest:a7d077b",
   "display_name": "C++ (g++ 15.2.0), CppUTest 4.0",
+  "language": [
+    "C++ (g++)",
+    "15.2.0"
+  ],
+  "test_framework": [
+    "CppUTest",
+    "4.0"
+  ],
   "visible_filenames": [
     "tests/HikerTest.cpp",
     "tests/AllTests.cpp",
