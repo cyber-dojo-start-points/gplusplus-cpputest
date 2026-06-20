@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-start-points/gplusplus-cpputest/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/gplusplus-cpputest/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="C++ (g++ 15.2.0), CppUTest 4.0"
 ### image_name="[ghcr.io/cyber-dojo-languages/gpp_cpputest](https://ghcr.io/cyber-dojo-languages/gpp_cpputest)"
