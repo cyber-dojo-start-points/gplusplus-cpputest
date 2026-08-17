@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gpp_cpputest:e09ee06",
+  "image_name": "ghcr.io/cyber-dojo-languages/gpp_cpputest:4659329",
   "display_name": "C++ (g++ 15.2.0), CppUTest 4.0",
   "language": [
     "C++ (g++)",
