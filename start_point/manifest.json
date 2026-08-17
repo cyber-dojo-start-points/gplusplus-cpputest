@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gpp_cpputest:a7d077b",
+  "image_name": "ghcr.io/cyber-dojo-languages/gpp_cpputest:e09ee06",
   "display_name": "C++ (g++ 15.2.0), CppUTest 4.0",
   "language": [
     "C++ (g++)",
@@ -17,6 +17,7 @@
     "cyber-dojo.sh",
     "makefile"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".cpp",
     ".hpp",
