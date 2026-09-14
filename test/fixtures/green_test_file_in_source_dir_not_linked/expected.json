@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 18,
+  "match_counts": {
+    "^compiling AnswerSizeTest\\.cpp$": 1,
+    "^a - objs/\\./AnswerSizeTest\\.o$": 1,
+    "^OK \\(1 tests, 1 ran, 1 checks, 0 ignored, 0 filtered out, [0-9]+ ms\\)$": 1,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

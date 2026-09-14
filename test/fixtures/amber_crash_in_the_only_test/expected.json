@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^starting a test$": 1,
+    "^Running Hiker_tests$": 1,
+    "Segmentation fault": 1,
+    "^OK \\(": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

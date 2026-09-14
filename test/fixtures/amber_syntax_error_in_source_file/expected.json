@@ -1,0 +1,10 @@
+{
+  "matches": [ "^Hiker\\.cpp:[0-9]+:[0-9]+: error: expected ';' before '\\}' token$" ],
+  "match_counts": {
+    "^make: \\*\\*\\* \\[/cpputest/build/MakefileWorker\\.mk:[0-9]+: objs/\\./Hiker\\.o\\] Error 1$": 1,
+    "^Running Hiker_tests$": 0,
+    "^OK \\(": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

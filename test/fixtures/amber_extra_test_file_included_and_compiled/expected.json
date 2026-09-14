@@ -1,0 +1,13 @@
+{
+  "matches": [ "multiple definition of .externTestGroupAnswerSize." ],
+  "match_counts": {
+    "^compiling AnswerSizeTest\\.cpp$": 1,
+    "^Linking Hiker_tests$": 1,
+    "^collect2: error: ld returned 1 exit status$": 1,
+    "^make: \\*\\*\\* \\[/cpputest/build/MakefileWorker\\.mk:[0-9]+: Hiker_tests\\] Error 1$": 1,
+    "^Running Hiker_tests$": 0,
+    "^OK \\(": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

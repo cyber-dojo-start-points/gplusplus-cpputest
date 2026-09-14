@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Errors \\(1 failures, 3 tests, 3 ran, 3 checks, 0 ignored, 0 filtered out, [0-9]+ ms\\)$": 1,
+    "^tests/HikerTest\\.cpp:[0-9]+: error: Failure in TEST\\(Hiker, Life_the_universe_and_everything\\)$": 1,
+    "^tests/HikerTest\\.cpp:[0-9]+: error: Failure in TEST\\(Hiker, ": 1,
+    "^OK \\(": 0
+  },
+  "truncated": false
+}

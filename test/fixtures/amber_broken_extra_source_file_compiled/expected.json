@@ -1,0 +1,11 @@
+{
+  "matches": [ "^Checksum\\.cpp:[0-9]+:[0-9]+: error: expected ';' before '\\}' token$" ],
+  "match_counts": {
+    "^compiling Checksum\\.cpp$": 1,
+    "^make: \\*\\*\\* \\[/cpputest/build/MakefileWorker\\.mk:[0-9]+: objs/\\./Checksum\\.o\\] Error 1$": 1,
+    "^Running Hiker_tests$": 0,
+    "^OK \\(": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

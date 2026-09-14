@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 16,
+  "match_counts": {
+    "^compiling FizzBuzz\\.cpp$": 1,
+    "^compiling FizzBuzzTest\\.cpp$": 1,
+    "^Linking Hiker_tests$": 1,
+    "^OK \\(1 tests, 1 ran, 1 checks, 0 ignored, 0 filtered out, [0-9]+ ms\\)$": 1,
+    "^compiling Hiker": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

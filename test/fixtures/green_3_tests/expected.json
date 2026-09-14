@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^OK \\(3 tests, 3 ran, 3 checks, 0 ignored, 0 filtered out, [0-9]+ ms\\)$": 1,
+    "^Errors \\(": 0
+  },
+  "truncated": false
+}

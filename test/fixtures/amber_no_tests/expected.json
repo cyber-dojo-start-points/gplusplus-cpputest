@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Running Hiker_tests$": 1,
+    "^Errors \\(ran nothing, 0 tests, 0 ran, 0 checks, 0 ignored, 0 filtered out, [0-9]+ ms\\)$": 1,
+    "^Note: test run failed because no tests were run or ignored\\. ": 1,
+    "^OK \\(": 0
+  },
+  "truncated": false
+}

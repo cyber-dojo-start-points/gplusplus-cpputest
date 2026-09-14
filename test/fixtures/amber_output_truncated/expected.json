@@ -1,0 +1,9 @@
+{
+  "matches": [ "^debug: i is 0, total is 0$" ],
+  "match_counts": {
+    "^Running Hiker_tests$": 1,
+    "^OK \\(": 0,
+    "^Errors \\(": 0
+  },
+  "truncated": true
+}
