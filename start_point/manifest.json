@@ -24,7 +24,6 @@
     ".c",
     ".h"
   ],
-  "max_seconds": 10,
   "tab_size": 4,
   "progress_regexs": [
     "Errors \\((\\d)+ failures, (\\d)+ tests, (\\d)+ ran, (\\d)+ checks, (\\d)+ ignored, (\\d)+ filtered out, (\\d)+ ms\\)",
